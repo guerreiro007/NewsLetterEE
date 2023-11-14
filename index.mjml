@@ -1,0 +1,65 @@
+<mjml>
+<mj-head>
+<mj-attributes>
+<mj-text align="center" color="#555"/>
+<mj-section background-color="#f5f5dc" />
+ 
+</mj-attributes>
+</mj-head>
+
+<mj-body>
+  <mj-section>
+    <mj-column>
+      <mj-text>Se o email não abrir     correctamente,clique 
+        <a style="color:red" href = "#" target = "_blank"> aqui.</a>
+      </mj-text>
+</mj-column>
+</mj-section>
+
+ <mj-section>
+<mj-column>
+<mj-image src="img/e.png" width="250px" padding="10px 0"> </mj-image>
+<mj-divider border-width="3px" border-color ="red"></mj-divider>
+   </mj-column>
+  </mj-section>
+  
+  <mj-section>
+  	<mj-column width="100%">
+     <mj-image align="left" src="img/portugal.png" width="20px"></mj-image>
+      <mj-text align="left">Caros excelentissimos Professores, é com muito orgulho que as turmas PTPEI e PTPSI anunciam os seus delegados.</mj-text>
+    </mj-column>
+    
+    <mj-column width="100%">
+     <mj-image align="left" src="img/uk.png" width="20px"></mj-image>
+      <mj-text align="left">Dear teachers, we're pleased to present you the PTPEI and PTPSI classes representation.</mj-text>
+    </mj-column>
+  </mj-section>
+  
+  <mj-section>
+  <mj-column>
+  <mj-image  src="img/C.png" width="90px"  padding="10px 0">
+</mj-image>
+  <mj-text color="red">Delegado PTPEI</mj-text>
+<mj-text align="center" color="brown">Carlos Ezequiel</mj-text>  
+  </mj-column>
+    <mj-column>
+<mj-image src="img/W.png" width="100px" padding="10px 0" >
+</mj-image>
+     <mj-text color="red">Delegado PTPSI</mj-text>
+<mj-text align="center" color="brown">Daniel Inácio</mj-text> 
+</mj-column>
+  </mj-section>
+  
+  
+  
+  
+  
+  <mj-section>
+  <mj-column>
+    <mj-divider  border-width ="3px" border-color="red"></mj-divider>
+        <mj-text align="center" color="red">
+          <p>&copy;Trabalho realizado pelo 12ºPTPSI</p>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-body> 
