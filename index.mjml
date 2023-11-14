@@ -43,7 +43,7 @@
 <mj-text align="center" color="brown">Carlos Ezequiel</mj-text>  
   </mj-column>
     <mj-column>
-<mj-image src="img/W.png" width="100px" padding="10px 0" >
+<mj-image src="img/w.png" width="100px" padding="10px 0" >
 </mj-image>
      <mj-text color="red">Delegado PTPSI</mj-text>
 <mj-text align="center" color="brown">Daniel Inácio</mj-text> 
